@@ -1,0 +1,26 @@
+nav {
+    background-color: black;  
+    height: 100px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+nav h3 {
+    color: white;
+    padding: 5px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.link {
+    color: white;
+    padding-right: 25px;
+}
+
+.navbar {
+    float: right;
+}
+
