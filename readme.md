@@ -1,6 +1,6 @@
 ## Customer Relationship Management (CRM) 
 
-I created a basic customer relationship management application used to manage a company's interaction with current and potentional customers. The project focused on data entry (customer profiling & lead management) as well as pipeline management (categorizing leads).
+I created a basic customer relationship management application used to manage a company's interaction with current and potential customers. The project focused on data entry (customer profiling & lead management) as well as pipeline management (categorizing leads).
 
 ### Built With
 
